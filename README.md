@@ -9,6 +9,7 @@ This tic-tac-toe is a multiplayer game made using NumPy.It is quite simple in co
 
 $$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix}$$
 
+
 ### Note! 
 
 You must be fair to your opponent and play it like you play it on paper. You cannot change your opponent's character to suit yours.
